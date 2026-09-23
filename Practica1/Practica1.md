@@ -15,3 +15,6 @@ Podŕia ser porque el mercado laboral se a orientado más a lenguajes como pytho
 3. Si tuvieras que explicarle a una persona que no es de CC la función que cumple Git frente a la de Github, ¿Cómo se lo explicarías?
 Git es como un historial de cambios que permite guardar versiones de un trabajo, por si te llegas a equivocar.
 En github sería la nube donde subes ese historial, que podrás interactuar o estar con otras personas. 
+
+Referencia Apa
+Equipo de Rust. (s. f.). Rust, el lenguaje de programación. Recuperado el 23 de septiembre de 2026, de https://rust-lang.org/es/
