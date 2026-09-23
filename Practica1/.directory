@@ -1,0 +1,17 @@
+Puntos
+1. instalacion de Haskell.
+2. 1:30 para completar la practica
+3. Fue instalar Haskell no me salia el comaFue de una hora para realizar la practica
+ndo, para arreglarlo era instalar curl.
+
+Preguntas.
+1. ¿Cuáles son las principales diferencias entre Haskell y Rust ?
+Haskell esta orientado a matemáticas puras a escribir formulas, tener una buena presentación.
+En rust ofrece una gestión de memoria, sin necesidad de un recolector de basura.
+
+2. ¿Por qué Haskell no ha alcanzado una adopción significativa en la industria del sotfware?
+Podŕia ser porque el mercado laboral se a orientado más a lenguajes como python o java.
+
+3. Si tuvieras que explicarle a una persona que no es de CC la función que cumple Git frente a la de Github, ¿Cómo se lo explicarías?
+Git es como un historial de cambios que permite guardar versiones de un trabajo, por si te llegas a equivocar.
+En github sería la nube donde subes ese historial, que podrás interactuar o estar con otras personas. 
