@@ -44,3 +44,34 @@ esDescendente x y z w =
     then True
     else False
 {-
+Descripcion: Calcula el Índice de Masa Corporal y devuelve su clasificación segú>
+uso: Para identifica el peso, uso para doctores o personas  que quieren saber
+-}
+imc :: Double -> Double -> String
+imc kg estatura =
+    if (kg / ((if estatura > 3.0 then estatura / 100.0 else estatura) * (if esta>
+    then "bajo"
+    else if (kg / ((if estatura > 3.0 then estatura / 100.0 else estatura) * (if>
+         then "normal"
+         else if (kg / ((if estatura > 3.0 then estatura / 100.0 else estatura) >
+              then "sobrepeso"
+              else "obesidad"
+{-
+Descripcion :Calcula la longitud de la hipotenusa de un triángulo rectángulo dad>
+uso : determinar el largo de algún cable
+-}
+hipotenusa :: Float -> Float -> Float
+hipotenusa b h = sqrt (b * b + h * h)
+
+{-
+Descripcion :Calcula la inclinación o pendiente ($m$) de la recta que conecta do>
+Uso : Un uso sería el de la rampa un plano.
+-}
+pendiente :: (Float, Float) -> (Float, Float) -> Float
+pendiente (x1, y1) (x2, y2) = (y2 - y1) / (x2 - x1)
+{-
+Descripcion: Calcula la distancia en la línea recta. 
+uso: Es usado en coordenadas de GPS
+-}
+distanciaPuntos :: (Float, Float) -> (Float, Float) -> Float
+distanciaPuntos (x1, y1) (x2, y2) = sqrt ((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1))
