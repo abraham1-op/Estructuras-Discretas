@@ -16,6 +16,8 @@ Agrupa a todos los tipos que tienen un comportamiento numérico (como Int, Integ
 `Chivita recursiva`
 Como la chivita se quedo arriba en la estructura y al paso de la cancion se van sumando los animales lo podríamos ver como un suma a la estructura, entonces el chico >
 
+/home/abraham/Imágenes/Capturas de pantalla/Captura de pantalla_20261024_200509.png'
+
 
 
 
